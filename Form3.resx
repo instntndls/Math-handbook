@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Сам термин образован от лат. discriminar, что в переводе — «разбирать», «различать».
+
+Формула дискриминанта
+Дискриминант D квадратного трёхчлена ax2 + bx + c   равен b2 - 4ac.
+
+Корни квадратного уравнения зависят от знака дискриминанта (D) :
+D &gt; 0 - уравнение имеет 2 различных вещественных корня;
+D = 0 - уравнение имеет 1 корень (или же 2 совпадающих вещественных корня):
+дискриминант
+D &lt; 0 - уравнение имеет 2 мнимых корня (т.е. вещественных корней нет).
+
+Общая формула для нахождения корней квадратного уравнения:</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="panel1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        egAAAABJRU5ErkJggg==
+</value>
+  </data>
+</root>

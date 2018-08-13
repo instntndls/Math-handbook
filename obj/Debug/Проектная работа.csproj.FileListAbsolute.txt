@@ -1,0 +1,13 @@
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\bin\Debug\Проектная работа.exe.config
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\bin\Debug\Проектная работа.exe
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\bin\Debug\Проектная работа.pdb
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная работа.csprojResolveAssemblyReference.cache
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная_работа.Form1.resources
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная_работа.Properties.Resources.resources
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная работа.csproj.GenerateResource.Cache
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная работа.exe
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная работа.pdb
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная_работа.Form2.resources
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная_работа.Form3.resources
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная_работа.Form4.resources
+C:\Users\Ginm21\Desktop\С# проекты\Фарносов Михаил\Проектная работа\obj\Debug\Проектная_работа.Form5.resources
